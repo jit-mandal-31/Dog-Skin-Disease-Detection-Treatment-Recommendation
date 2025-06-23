@@ -55,21 +55,54 @@ Here are examples:
 ---
 ## 🛠️ Technologies Used
 
-🧠 Machine Learning / Deep Learning
+### 🖥️ Programming Language
 
-TensorFlow / Keras – Building and training the CNN model
+Python
 
-MobileNetV2 – Transfer learning for feature extraction
+### 📚 Libraries
 
-CNN + Softmax – Multiclass classification
+NumPy
 
-## 📊 Data Preprocessing & Evaluation
+pandas
 
-ImageDataGenerator – Augmentation & data feeding
+scikit-learn
 
-NumPy, PIL – Image processing
+TensorFlow / Keras
 
-Scikit-learn – Evaluation metrics (confusion matrix, classification report)
+PIL (Pillow)
 
-Matplotlib – Visualizations
+Matplotlib
+
+### 🛠️ Tools
+
+Jupyter Notebook
+
+Kaggle Notebooks
+
+GitHub (version control and sharing)
+
+---
+
+## 📈 Evaluation
+
+Reports: Confusion matrix & Classification report
+
+Model: MobileNetV2 + global average pooling + Dense output
+
+---
+
+## 📌 Future Improvements
+
+Streamlit or Flask UI for user-friendly access
+
+Extend dataset with more skin conditions (e.g., mange, flea allergy)
+
+Deploy as an Android app with on-device ML
+
+---
+
+## 👤 Author
+
+1. Jit Mandal
+2. Ritam Koley
 
