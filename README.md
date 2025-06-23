@@ -61,41 +61,41 @@ Python
 
 ### 📚 Libraries & Frameworks
 
-NumPy – Numerical operations
+- NumPy – Numerical operations
 
-pandas – Data handling and analysis
+- pandas – Data handling and analysis
 
-scikit-learn – Evaluation metrics (classification report, confusion matrix)
+- scikit-learn – Evaluation metrics (classification report, confusion matrix)
 
-TensorFlow / Keras – Model building, training, and prediction
+- TensorFlow / Keras – Model building, training, and prediction
 
-Matplotlib – Plotting graphs and performance metrics
+- Matplotlib – Plotting graphs and performance metrics
 
 ### 🛠️ Tools
 
-Jupyter Notebook
+- Jupyter Notebook
 
-Kaggle Notebooks
+- Kaggle Notebooks
 
-GitHub (version control and sharing)
+- GitHub (version control and sharing)
 
 ---
 
 ## 📈 Evaluation
 
-Reports: Confusion matrix & Classification report
+- Reports: Confusion matrix & Classification report
 
-Model: MobileNetV2 + global average pooling + Dense output
+- Model: MobileNetV2 + global average pooling + Dense output
 
 ---
 
 ## 📌 Future Improvements
 
-Streamlit or Flask UI for user-friendly access
+- Streamlit or Flask UI for user-friendly access
 
-Extend dataset with more skin conditions (e.g., mange, flea allergy)
+- Extend dataset with more skin conditions (e.g., mange, flea allergy)
 
-Deploy as an Android app with on-device ML
+- Deploy as an Android app with on-device ML
 
 ---
 
