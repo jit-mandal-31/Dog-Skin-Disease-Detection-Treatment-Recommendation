@@ -47,4 +47,29 @@ Here are examples:
 > ⚠️ Always consult a veterinarian before applying medication.
 
 ---
+## 🗂 Dataset
+
+- **Name**: [Dogs Skin Disease Dataset] (https://www.kaggle.com/datasets/yashmotiani/dogs-skin-disease-dataset)
+- **Source**: Kaggle
+
+---
+## 🛠️ Technologies Used
+
+🧠 Machine Learning / Deep Learning
+
+TensorFlow / Keras – Building and training the CNN model
+
+MobileNetV2 – Transfer learning for feature extraction
+
+CNN + Softmax – Multiclass classification
+
+## 📊 Data Preprocessing & Evaluation
+
+ImageDataGenerator – Augmentation & data feeding
+
+NumPy, PIL – Image processing
+
+Scikit-learn – Evaluation metrics (confusion matrix, classification report)
+
+Matplotlib – Visualizations
 
