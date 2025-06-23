@@ -59,19 +59,17 @@ Here are examples:
 
 Python
 
-### 📚 Libraries
+### 📚 Libraries & Frameworks
 
-NumPy
+NumPy – Numerical operations
 
-pandas
+pandas – Data handling and analysis
 
-scikit-learn
+scikit-learn – Evaluation metrics (classification report, confusion matrix)
 
-TensorFlow / Keras
+TensorFlow / Keras – Model building, training, and prediction
 
-PIL (Pillow)
-
-Matplotlib
+Matplotlib – Plotting graphs and performance metrics
 
 ### 🛠️ Tools
 
