@@ -57,7 +57,7 @@ Here are examples:
 
 ### 🖥️ Programming Language
 
-Python
+- Python
 
 ### 📚 Libraries & Frameworks
 
